@@ -3,7 +3,7 @@
 
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines= THANKS FOR CHOOSING +KATAKURI_MD;MULTI+DEVICE+WHATSAPP+BOT;ARISED+BY+PHANTOM" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines= THANKS+FOR+CHOOSING; KATAKURI_MD; MULTI+DEVICE+WHATSAPP+BOT; ARISED+BY+PHANTOM" alt="Typing SVG" /></a>
   </p>
     <img alt="KATAKURI_MD" width="500" height="400" src="https://files.catbox.moe/17q2vs.jpg">
 <p align="center">

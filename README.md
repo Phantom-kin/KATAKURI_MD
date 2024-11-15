@@ -22,7 +22,7 @@
 
 ***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/Phantom-kin/KATAKURI_MD/fork) It***
 
-***2.`Get Session ID` by [`SCANING QR`](https://king-phantom.onrender.com/qr) Or [`PAIR CODE`](https://king-phantom.onrender.com/pair)***
+***2.`Get Session ID` by [`SCANING QR`](https://king-phantom.onrender.com/wasiqr) Or [`PAIR CODE`](https://king-phantom.onrender.com/pair)***
 
 * - Copy The Session ID for it Will be needed during deployment*
 

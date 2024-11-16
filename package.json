@@ -1,18 +1,18 @@
 "name": "KATAKURI_MD",
    "version": "2.5.0",
-   "description": "Multi device whatsapp bot by Phantom-kin ....",
+   "description": "Multi device whatsapp bot by Phantom ....",
    "main": "index.js",
    "type": "commonjs",
    "scripts": {
-      "run": "pm2 start . --deep-monitoring --attach --name Phantom-kin || node .",
-      "Phantom-kin ": "pm2 start . --deep-monitoring --attach --name Phantom-kin || node .",
-      "start": "pm2 start . --attach --name Phantom-kin",
+      "run": "pm2 start . --deep-monitoring --attach --name Phantom || node .",
+      "Phantom-kin ": "pm2 start . --deep-monitoring --attach --name Phantom || node .",
+      "start": "pm2 start . --attach --name Phantom",
       "stop": "pm2 stop KATAKURI_MD",
       "heroku-postbuild": "git clone https://github.com/Phantom-kin/KATAKURI_MD.git temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
       "fis-heroku-postbuild": "git clone https://github.com/Phantom-kin/KATAKURI_MD.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
       "postinstall": "npx puppeteer@latest install --y"
    },
-   "author": "Phantom-kin",
+   "author": "Phantom",
    "license": "Apache-2.0",
    "dependencies": {
       "katakuri": "npm:@distube/ytdl-core@latest",
